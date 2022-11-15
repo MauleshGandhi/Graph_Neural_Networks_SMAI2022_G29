@@ -3,7 +3,4 @@ HOW POWERFUL ARE GRAPH NEURAL NETWORKS?
 
 Group 29
 
-Deepthi Chandak
-Maulesh Gandhi
-Shruti Kolachana
-Surabhi Jain
+Deepthi Chandak, Maulesh Gandhi, Shruti Kolachana, Surabhi Jain
