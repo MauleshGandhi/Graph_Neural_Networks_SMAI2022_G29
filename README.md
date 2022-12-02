@@ -18,5 +18,4 @@ Small molecules -> MUTAG, NCI1
 Bioinformatics -> PROTEINS  
 
 # Bibliography
-https://mlabonne.github.io/blog/gin/  
 https://github.com/weihua916/powerful-gnns  
