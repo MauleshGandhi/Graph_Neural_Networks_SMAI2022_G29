@@ -17,5 +17,5 @@ TUDataset :
 Small molecules -> MUTAG, NCI1  
 Bioinformatics -> PROTEINS  
 
-# Bibliography
+# References
 https://github.com/weihua916/powerful-gnns  
